@@ -11,6 +11,7 @@ public class Function2 {
         int a = scan.nextInt();
         System.out.print("Enter Number of B : ");
         int b = scan.nextInt();
+
         System.out.println("Sum of A + B = " + sum(a, b));
     }
     public static void main(String[] args) {
